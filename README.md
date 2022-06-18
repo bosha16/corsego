@@ -1,6 +1,6 @@
 # Corsego - online learning platform.
 
-###### Best udemy clone on the market. Set up your online school in minutes!
+
 
 [![N|Solid](https://i.imgur.com/Hvjl2YJ.png)](https://corsego.herokuapp.com)
 
